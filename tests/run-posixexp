@@ -1,2 +1,3 @@
+echo "posixexp always fails 2 random tests, for some reason."
 ${THIS_SH} ./posixexp.tests > ${BASH_TSTOUT} 2>&1
 diff ${BASH_TSTOUT} posixexp.right && rm -f ${BASH_TSTOUT}
