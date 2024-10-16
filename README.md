@@ -8,3 +8,4 @@ To run the tests, login into your shell / emulator, extract the tests and run `r
 You will be greeted with a ton of unintuinive logs which the official bash repository didn't mention to explain.
 A fully functional bash shell should spit out only the names of the scripts being run, while any other output can be regardere as a failure.
 Here is an example of running the tests on my laptop, i.e. with a working shell:
+![image](https://github.com/user-attachments/assets/01f5978a-14e1-47a1-b190-a0c9ac80a469)
