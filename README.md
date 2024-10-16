@@ -9,3 +9,7 @@ You will be greeted with a ton of unintuinive logs which the official bash repos
 A fully functional bash shell should spit out only the names of the scripts being run, while any other output can be regardere as a failure.
 Here is an example of running the tests on my laptop, i.e. with a working shell:
 ![image](https://github.com/user-attachments/assets/01f5978a-14e1-47a1-b190-a0c9ac80a469)
+
+Tests on an ubuntu:latest docker container:
+![image](https://github.com/user-attachments/assets/44aeb303-b0e0-4adf-985e-651ac16385d0)
+
