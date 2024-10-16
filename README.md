@@ -13,3 +13,7 @@ Here is an example of running the tests on my laptop, i.e. with a working shell:
 Tests on an ubuntu:latest docker container:
 ![image](https://github.com/user-attachments/assets/44aeb303-b0e0-4adf-985e-651ac16385d0)
 
+Cowrie:
+![image](https://github.com/user-attachments/assets/a0e5eab8-6209-4990-9601-3a5295a9206c)
+\*pain\*
+
